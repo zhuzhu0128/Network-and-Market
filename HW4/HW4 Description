@@ -1,0 +1,3 @@
+HW4 Description: 
+The objective of this question is to use the PageRank algorithm as a way to determine how
+“influential” a node is in a social network based on its in-links from influential nodes.
